@@ -1,3 +1,6 @@
 [submodule "Health-Plus-main/Telemed"]
 	path = Health-Plus-main/Telemed
 	url = https://github.com/pujakarakoti07/HealthPlus.git
+[submodule "MainHealthPlus/Telemed"]
+	path = MainHealthPlus/Telemed
+	url = https://github.com/pujakarakoti07/HealthPlus.git
